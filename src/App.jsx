@@ -8,7 +8,7 @@ export default function App() {
         {/* Product Details Section */}
         <div className="flex flex-col justify-center">
           <span className="text-xs uppercase tracking-widest text-indigo-400 mb-2 font-semibold">
-            Interactive Menu
+            Interactive Menu trc
           </span>
           <h1 className="text-4xl font-extrabold tracking-tight mb-4 bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
             Classic Brewed Coffee
